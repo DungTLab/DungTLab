@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://dungtlab.github.io/DzungTLab_Portfolio/">Portfolio</a>
   &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/d%C5%A9ng-l%C3%AA-941050380/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/letiendung/">LinkedIn</a>
 </p>
 
 ---
